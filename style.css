@@ -137,6 +137,10 @@ body {
     pointer-events: none;
 }
 
+.person-content > p {
+    font-weight: 300;
+}
+
 .quote {
     position: absolute;
     top: -2rem;
@@ -157,7 +161,6 @@ body {
 
 .job {
     color: var(--Grayish-Blue);
-    font-weight: 300;
 }
 
 .curve {
